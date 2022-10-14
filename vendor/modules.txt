@@ -1,0 +1,34 @@
+# github.com/PuerkitoBio/goquery v1.8.0
+## explicit; go 1.13
+github.com/PuerkitoBio/goquery
+# github.com/andybalholm/cascadia v1.3.1
+## explicit; go 1.16
+github.com/andybalholm/cascadia
+# github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394
+## explicit
+github.com/axgle/mahonia
+# github.com/go-sql-driver/mysql v1.6.0
+## explicit; go 1.10
+github.com/go-sql-driver/mysql
+# github.com/jinzhu/inflection v1.0.0
+## explicit
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.5
+## explicit; go 1.12
+github.com/jinzhu/now
+# golang.org/x/net v0.0.0-20220822230855-b0a4917ee28c
+## explicit; go 1.17
+golang.org/x/net/html
+golang.org/x/net/html/atom
+# gorm.io/driver/mysql v1.3.6
+## explicit; go 1.14
+gorm.io/driver/mysql
+# gorm.io/gorm v1.23.8
+## explicit; go 1.14
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
